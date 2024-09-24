@@ -1,5 +1,6 @@
-alert("Registro Correcto")
 
 function register_user () {
-    alert("Register button clicked")
+    alert("HOLAAAA")
+
+    //window.location = '/register_user'
 }
